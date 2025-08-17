@@ -1,2 +1,2 @@
-# analystBase_qorix_incubDeployment hi
+# analystBase_qorix_incubDeployment
 
